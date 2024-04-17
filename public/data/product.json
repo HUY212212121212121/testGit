@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"banh mi",
+        "price":200,
+        "quantity":3
+    },
+    {
+        "id":2,
+        "name":"banh bao",
+        "price":300,
+        "quantity":4
+    },
+    {
+        "id":3,
+        "name":"banh beo",
+        "price":100,
+        "quantity":1
+    }
+]

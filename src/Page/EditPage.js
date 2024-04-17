@@ -8,6 +8,7 @@ function EditPage(props) {
         <div>
            
             <h1 class="text-center">Edit Page</h1>
+            <button className='btn btn-danger'>click to Edit</button>
             
         </div>
     );

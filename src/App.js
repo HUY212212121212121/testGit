@@ -18,6 +18,7 @@ fetch("/data/product.json")
   return (
     <div className="container">
 <Header></Header>
+<h1>HomePage nè</h1>
 <Routes>
         <Route element={<CreatePage products={products} setProducts={setProducts}/>}  path='/create'/>
         <Route element={<EditPage/>}  path='/edit'/>
